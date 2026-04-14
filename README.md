@@ -1,7 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=240&text=Seunghyun's%20GitHub&animation=twinkling&fontColor=f2c4d7&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=524c4c&height=180&text=Seunghyun's%20GitHub&animation=twinkling&fontColor=eab3ca&fontSize=40" />
     </div>
-    
 
 ## seunngh 🐻
 <a href="https://github.com/devxb/gitanimals">
