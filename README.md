@@ -20,3 +20,10 @@
         alt="gitanimals"
       />
     </a>
+
+## 👾 Pacman Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seunngh/seunngh/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/seunngh/seunngh/output/pacman-contribution-graph.svg">
+</picture>
