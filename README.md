@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h2>seunngh 🐻</h2>
+      <h2>seunngh</h2>
       <a href="https://github.com/devxb/gitanimals">
         <img
           src="https://render.gitanimals.org/farms/{seunngh}"
@@ -15,9 +15,8 @@
         />
       </a>
     </td>
-
     <td align="center" width="50%">
-      <h2>donggukgirls 🐘🧡</h2>
+      <h2>donggukgirls 🐘</h2>
       <a href="https://www.gitanimals.org/">
         <img
           src="https://render.gitanimals.org/guilds/831720539654426234/draw"
